@@ -9,5 +9,3 @@
                  Instagram: @devlogs2021
 
 thanks for the read :)
-
-I made some changes...

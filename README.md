@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DevRohan20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About Me
 
-<!---
-DevRohan20/DevRohan20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @DevRohan20
+- 👀 I’m interested in Web Development. Especially when it comes to MERN Stack...
+- 🌱 I’m currently learning the fundamenals and DSA of JavaScript
+- 💞️ I’m looking to collaborate on WebApps, PWA, SPA and any Opensource projects.
+- 📫 Reach me at my email: rohandli2018@gmail.com
+                        ig: @devlogs2021
+
+thanks for the read :)

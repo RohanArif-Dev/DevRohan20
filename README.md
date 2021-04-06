@@ -10,3 +10,5 @@
               - Instagram: @devlogs2021
 
 thanks for the read :)
+
+I am dead inside... ;-;

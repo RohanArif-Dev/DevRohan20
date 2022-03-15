@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @DevRohan20
 - 👀 I’m interested in Web Development. Especially when it comes to MERN Stack...
-- 📱 I'm also learning Flutter for Android App Development.
+- 📱  I'm also learning Flutter for Android App Development.
 - 🌱 I’m currently learning the fundamenals and DSA of JavaScript.
 - 💞️ I’m looking to collaborate on WebApps, PWA, SPA and any Opensource projects.
 - 📫 Reach me at my 
